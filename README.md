@@ -16,3 +16,9 @@ http://stackoverflow.com/questions/5148635/how-to-simulate-poisson-arrival
 http://ja.pymotw.com/2/random/
 
 pyhthon has its own function to generate possion process by using the relationship between exponential distribution and poisson distribution.
+
+
+
+poisson1.py: genetrate poison process timings
+poisson2.py: verify the results 
+poisson3.py: for simulation, we have to put results to simulator, it is impossible to do it manullay. This file generates txt file, then , you can copy the resulat to simulator(e.g.NS-3)
